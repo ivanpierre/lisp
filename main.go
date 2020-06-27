@@ -35,7 +35,7 @@ import (
 	"fmt"
 	"os"
 
-	"robpike.io/lisp/lisp1_5"
+	"ivan.ch/lisp/lisp1_5"
 )
 
 var (
