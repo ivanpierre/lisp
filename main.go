@@ -27,7 +27,7 @@
 //
 // It is slow and of course the language is very, very far from Common Lisp or
 // Scheme.
-package main // import "robpike.io/lisp"
+package main // import "github.com/ivanpierre/lisp"
 
 import (
 	"bufio"
