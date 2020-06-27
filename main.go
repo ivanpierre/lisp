@@ -35,7 +35,7 @@ import (
 	"fmt"
 	"os"
 
-	"ivan.ch/lisp/lisp1_5"
+	"github.com/ivanpierre/lisp/lisp1_5"
 )
 
 var (
